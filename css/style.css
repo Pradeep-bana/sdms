@@ -1,0 +1,17 @@
+table tbody td input {
+    width:60%;
+}
+
+.container .unk td {
+    padding:1px;
+    /* background-color: black; */
+}
+
+@font-face {
+    font-family: hindi;
+    src: url(cert/new_font.ttf);
+}
+
+body {
+    font-family: hindi;
+}
